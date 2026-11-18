@@ -22,7 +22,7 @@ For rocky planets the min and max temperatures are measured as follows:
 surface temp min and max for rocky planets (2017) https://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html
 Note: I need to check this (Venus was different than in the NASA article, and the mean doesn't make too much sense)
 
-- [] Find min and max datasource for rocky planets
-- [] Find a good comparable measure for 1-bar temperature variations for the gas planets
-- [] Write down how min and max temperatures for rocky planets are measured
+- [ ] Find min and max datasource for rocky planets
+- [ ] Find a good comparable measure for 1-bar temperature variations for the gas planets
+- [ ] Write down how min and max temperatures for rocky planets are measured
 
