@@ -1,0 +1,9 @@
+Planet; mean_temperature (°C); min_temperature (°C); max_temperature (°C); diameter (km); type; note
+Mercury; 167; –170; 449; 4879; terrestrial
+Venus; 464; 465; 467; 12104; terrestrial
+Earth; 15; -89; 58; 12756; terrestrial
+Mars; -65; -125; 20; 6792; terrestrial
+Jupiter; -110; -145; -100; 142984; gas
+Saturn; -140; -175; -120; 120536; gas	
+Uranus; -195; -220; -185; 51118; gas
+Neptune; -200; -220; -190; 49528; gas
