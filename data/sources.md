@@ -26,3 +26,7 @@ Note: I need to check this (Venus was different than in the NASA article, and th
 - [ ] Find a good comparable measure for 1-bar temperature variations for the gas planets
 - [ ] Write down how min and max temperatures for rocky planets are measured
 
+## Vertical temperature profiles
+- [ ] Hier auschecken: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JA034066
+
+
