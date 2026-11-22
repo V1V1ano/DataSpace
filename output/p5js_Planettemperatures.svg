@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594" height="840" viewBox="0 0 594 840">
+<rect x="0" y="0" width="594" height="112.189" fill="rgb(0,0,0)" stroke="rgb(255,255,255)" stroke-width="0.2"/>
+<circle cx="314.251" cy="56.094" r="56.094" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="1"/>
+<circle cx="0" cy="56.094" r="56.094" fill="none" stroke="blue" stroke-width="1"/>
+<circle cx="577.215" cy="56.094" r="56.094" fill="none" stroke="orange" stroke-width="1"/>
+<rect x="0" y="112.189" width="594" height="278.321" fill="rgb(0,0,0)" stroke="rgb(255,255,255)" stroke-width="0.2"/>
+<circle cx="591.203" cy="251.349" r="139.161" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="1"/>
+<circle cx="592.135" cy="251.349" r="139.161" fill="none" stroke="blue" stroke-width="1"/>
+<circle cx="594" cy="251.349" r="139.161" fill="none" stroke="orange" stroke-width="1"/>
+<rect x="0" y="390.51" width="594" height="293.314" fill="rgb(0,0,0)" stroke="rgb(255,255,255)" stroke-width="0.2"/>
+<circle cx="172.512" cy="537.167" r="146.657" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="1"/>
+<circle cx="75.532" cy="537.167" r="146.657" fill="none" stroke="blue" stroke-width="1"/>
+<circle cx="212.609" cy="537.167" r="146.657" fill="none" stroke="orange" stroke-width="1"/>
+<rect x="0" y="683.824" width="594" height="156.176" fill="rgb(0,0,0)" stroke="rgb(255,255,255)" stroke-width="0.2"/>
+<circle cx="97.912" cy="761.912" r="78.088" fill="rgb(255,255,255)" stroke="rgb(0,0,0)" stroke-width="1"/>
+<circle cx="41.962" cy="761.912" r="78.088" fill="none" stroke="blue" stroke-width="1"/>
+<circle cx="177.174" cy="761.912" r="78.088" fill="none" stroke="orange" stroke-width="1"/>
+</svg>
