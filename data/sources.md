@@ -43,6 +43,9 @@ Modeled surface temperatures!!!
 
 *Die Studie nennt für die vier standardisierten Modellstandorte gemeinsam Nachttemperaturen von etwa 94–110 K, aber keine eindeutigen Einzelminima für die jeweiligen Äquatorpositionen. Deshalb ist dies kein exakt bestimmtes Minimum für jeden Standort.
 
+## Mars
+
+
 
 
 ## Infos und Datenquelle Gasplaneten
@@ -58,8 +61,8 @@ For gas planets, the temperature varies based on many factors, such as:
 - Wie kann ich die einzelnen Unsicherheiten sichtbar machen (doch nochmal eine erklärende Infografik?) // 
 
 ## To Dos
-- [] Find min and max datasource for rocky planets
-- [] Find a good comparable measure for 1-bar temperature variations for the gas planets (ever measured high and low)
+- [ ] Find min and max datasource for rocky planets
+- [ ] Find a good comparable measure for 1-bar temperature variations for the gas planets (ever measured high and low)
 - [ ] Write down how min and max temperatures for rocky planets are measured
 
 
